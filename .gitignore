@@ -1,0 +1,24 @@
+
+# KiCad local preferences
+*.kicad_prl
+
+# KiCad cache
+fp-info-cache
+
+# Backup folders
+*-backups/
+
+# Backup and temporary files
+*.bak
+*.lck
+*.tmp
+
+# Windows files
+desktop.ini
+Thumbs.db
+
+# Zip archives
+*.zip
+
+*.kicad_sch-bak
+fp-info-cache*

@@ -1,0 +1,26 @@
+Drill report for LEd blinker.kicad_pcb
+Created on 2025-11-30T10:05:01+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'LEd blinker-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (4 holes)
+    T2  0.800mm  0.0315"  (12 holes)
+    T3  0.900mm  0.0354"  (4 holes)
+    T4  1.200mm  0.0472"  (2 holes)
+    T5  1.300mm  0.0512"  (2 holes)
+
+    Total plated holes count 24
+
+
+Drill file 'LEd blinker-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
